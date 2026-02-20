@@ -1,0 +1,4 @@
+src_id,dst_id,edge_type,weight,polarity,ts,event_id
+h_zyrraxes,h_maegyr,TRADE,0.6,1,1,e_0001
+h_zyrraxes,h_maegyr,DEBT,0.8,1,2,e_0002
+h_zyrraxes,h_maegyr,CONFLICT,0.4,-1,3,e_0003
